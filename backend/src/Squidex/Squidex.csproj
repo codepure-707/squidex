@@ -62,7 +62,7 @@
     <PackageReference Include="Squidex.Assets.Azure" Version="7.1.4" />
     <PackageReference Include="Squidex.Assets.GoogleCloud" Version="7.1.4" />
     <PackageReference Include="Squidex.Assets.FTP" Version="7.1.4" />
-    <PackageReference Include="Squidex.Assets.ImageSharp" Version="7.1.4" />
+    <PackageReference Include="Squidex.Assets.ImageSharp" Version="7.30.0" />
     <PackageReference Include="Squidex.Assets.S3" Version="7.1.4" />
     <PackageReference Include="Squidex.Assets.TusAdapter" Version="7.1.4" />
     <PackageReference Include="Squidex.ClientLibrary" Version="20.1.0" />

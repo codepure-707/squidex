@@ -83,7 +83,7 @@
   </ItemGroup>
 
   <ItemGroup Condition="'$(IncludeMagick)' == 'true'">
-    <PackageReference Include="Squidex.Assets.ImageMagick" Version="7.1.4" />
+    <PackageReference Include="Squidex.Assets.ImageMagick" Version="7.31.0" />
   </ItemGroup>
 
   <ItemGroup Condition="'$(IncludeKafka)' == 'true'">
